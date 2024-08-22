@@ -1,8 +1,20 @@
-# React + Vite
+# Restaurant Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+By Anton Clayton
 
-Currently, two official plugins are available:
+## Skills used:
+- JavaScript
+- JSX
+- CSS
+- React
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Description: 
+This project is partly a follow along of another project by Javascript Mastery on Youtube with my own touches. I found myself unable to style my own websites/projects in a professional way and so I wanted to concentrate on a project that would teach file structure, React, and CSS styling. The website is a "mock" website for a restaurant called "Gericht" and offers a professional, attractive design. 
+
+## What I learned:
+- BEM naming convention for class names
+- Efficient, clean React file structure
+- General CSS styling tricks and skills
+- Using js files to import many components/images in one line of code
+- How to build the foundation/plan for a react app
+
