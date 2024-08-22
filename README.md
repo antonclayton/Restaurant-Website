@@ -1,4 +1,4 @@
-# Restaurant Website
+# Restaurant Website (React + Vite)
 
 By Anton Clayton
 
